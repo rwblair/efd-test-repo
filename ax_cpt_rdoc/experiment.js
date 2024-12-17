@@ -2,6 +2,8 @@
 /* Define helper functions */
 /* ************************************ */
 
+/* This comment is a change made for testing */
+
 /* ********** ITIS ****************** */
 
 var meanITI = 0.5;
